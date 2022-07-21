@@ -3,7 +3,7 @@ PersonalScripts
 
 This is just a collection of scripts that I have written and would like to keep track of.  
 Some of them are very one-off (like 'launch_pwsh.sh') while others are more complex.  
-This includes of utilities written for other applications (like lemonbar).
+This includes utilities written for other applications (like lemonbar).
 
 Explanations of More Important Scripts:
 ---------------------
